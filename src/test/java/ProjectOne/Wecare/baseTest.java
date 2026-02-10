@@ -30,5 +30,4 @@ public class baseTest {
 }
 
 
-// develop chnages
-//check one for feature branch
+// verifing feature branch changes in develop branch
